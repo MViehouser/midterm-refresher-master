@@ -5,7 +5,17 @@
 /* 	Paragraph
 	line-height: 24px; 
 */
+body {
+	background: url("../img/bg.png");
+}
 
+img	{
+	width: 200px;
+}
+
+blockquote {
+	font-family: 'Playfair Display', serif;
+}
 
 /***************
 	Typography
